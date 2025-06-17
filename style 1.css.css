@@ -1,0 +1,14 @@
+h1, h2 {
+  text-align: center;
+}
+
+body {
+  background-color: pink;
+}
+
+#TTG {
+  width: 80%;
+  background-color: beige;
+  margin: 0 auto;
+  padding: 20px; /* added padding */
+}
